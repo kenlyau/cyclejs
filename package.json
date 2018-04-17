@@ -1,0 +1,27 @@
+{
+  "name": "cyclejs-sample",
+  "version": "0.0.1",
+  "description": "sample cyclejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenlyau/cyclejs-sample.git"
+  },
+  "keywords": [
+    "cyclejs"
+  ],
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenlyau/cyclejs-sample/issues"
+  },
+  "homepage": "https://github.com/kenlyau/cyclejs-sample#readme",
+  "dependencies": {
+    "@cycle/dom": "^20.2.0",
+    "@cycle/run": "^4.1.0",
+    "xstream": "^11.2.0"
+  }
+}
